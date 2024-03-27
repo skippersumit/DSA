@@ -1,0 +1,6 @@
+Printing topoSortArr, if topoSortArr size is same as V then its DAG
+0 1 2 3 4 7 5 6 
+Graph is having a cycle
+Printing topoSortArr, if topoSortArr size is same as V then its DAG
+0 1 
+Graph2 is having a cycle
